@@ -1,1 +1,1 @@
-# mobile-price-detection-using-machune-learning
+# mobile-price-detection-using-machine-learning
